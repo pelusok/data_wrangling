@@ -16,7 +16,7 @@ SQL query techniques used include:
 - Aggregation
 - Creation of new columns
 
--[Code](https://github.com/pelusok/data_wrangling/blob/master/sqlminiproj_kp_update.sql)
+- [Code](https://github.com/pelusok/data_wrangling/blob/master/sqlminiproj_kp_update.sql)
 #### JSON Mini Project:
 The JSON Mini Project examines the World Bank dataset, derived from a school improvement project in Ethiopia. 
 Three tasks are completed in this project:
