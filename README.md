@@ -30,4 +30,4 @@ Utilizing the website Quandl.com, request an API and pull data from the Frankfur
 1. Collect the appropriate dataset
 2. Convert JSON object to a python dictionary
 3. Analyze the dataset looking at metrics such as the median trading volume throughout the year, and the largest price change in any one day
-- [Notebook](https://github.com/pelusok/api_proj/blob/master/API_KP.ipynb)
+- [Notebook](https://github.com/pelusok/data_wrangling/blob/master/API_KP.ipynb)
