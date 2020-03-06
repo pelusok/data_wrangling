@@ -24,7 +24,7 @@ Three tasks are completed in this project:
 2. Identify the top 10 project themes
 3. Find and replace missing project theme name values
 
-- [Notebook](https://github.com/pelusok/JSON_Project/blob/master/JSON_final.ipynb)
+- [Notebook](https://github.com/pelusok/data_wrangling/blob/master/JSON_final.ipynb)
 #### API Mini Project:
 Utilizing the website Quandl.com, request an API and pull data from the Frankfurt Stock Exchange. Analyze data without the use of third party packages such as Pandas.
 1. Collect the appropriate dataset
